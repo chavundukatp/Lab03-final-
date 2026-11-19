@@ -1,0 +1,15 @@
+C:\Users\geral\CSCI1250\lab03-badge\LAB 3\bin\Debug\net10.0\LAB 3.exe
+C:\Users\geral\CSCI1250\lab03-badge\LAB 3\bin\Debug\net10.0\LAB 3.deps.json
+C:\Users\geral\CSCI1250\lab03-badge\LAB 3\bin\Debug\net10.0\LAB 3.runtimeconfig.json
+C:\Users\geral\CSCI1250\lab03-badge\LAB 3\bin\Debug\net10.0\LAB 3.dll
+C:\Users\geral\CSCI1250\lab03-badge\LAB 3\bin\Debug\net10.0\LAB 3.pdb
+C:\Users\geral\CSCI1250\lab03-badge\LAB 3\obj\Debug\net10.0\LAB 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geral\CSCI1250\lab03-badge\LAB 3\obj\Debug\net10.0\LAB 3.AssemblyInfoInputs.cache
+C:\Users\geral\CSCI1250\lab03-badge\LAB 3\obj\Debug\net10.0\LAB 3.AssemblyInfo.cs
+C:\Users\geral\CSCI1250\lab03-badge\LAB 3\obj\Debug\net10.0\LAB 3.csproj.CoreCompileInputs.cache
+C:\Users\geral\CSCI1250\lab03-badge\LAB 3\obj\Debug\net10.0\LAB 3.sourcelink.json
+C:\Users\geral\CSCI1250\lab03-badge\LAB 3\obj\Debug\net10.0\LAB 3.dll
+C:\Users\geral\CSCI1250\lab03-badge\LAB 3\obj\Debug\net10.0\refint\LAB 3.dll
+C:\Users\geral\CSCI1250\lab03-badge\LAB 3\obj\Debug\net10.0\LAB 3.pdb
+C:\Users\geral\CSCI1250\lab03-badge\LAB 3\obj\Debug\net10.0\LAB 3.genruntimeconfig.cache
+C:\Users\geral\CSCI1250\lab03-badge\LAB 3\obj\Debug\net10.0\ref\LAB 3.dll
